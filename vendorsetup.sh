@@ -1,4 +1,5 @@
 add_lunch_combo omni_cloudq11-userdebug
+add_lunch_combo omni_cloudq11-eng
 
 export ALLOW_MISSING_DEPENDENCIES=true
 export FOX_USE_TWRP_RECOVERY_IMAGE_BUILDER=1
