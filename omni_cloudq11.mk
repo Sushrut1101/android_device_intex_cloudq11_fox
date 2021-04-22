@@ -18,10 +18,10 @@
 $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 
 # Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := Cloud\ 11
-PRODUCT_NAME := omni_Cloud\ 11
+PRODUCT_DEVICE := cloudq11
+PRODUCT_NAME := omni_cloudq11
 PRODUCT_BRAND := Intex
-PRODUCT_MODEL := Cloud 11
+PRODUCT_MODEL := Cloud Q11
 PRODUCT_MANUFACTURER := Intex
 
 
